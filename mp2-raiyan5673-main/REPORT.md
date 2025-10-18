@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- Name: Raiyan Siddiqui
+- Name: Raiyan Siddiqui.
 - AID: A20516097
 
 ## Self-Evaluation Checklist
